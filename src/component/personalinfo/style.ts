@@ -4,6 +4,12 @@ import styled from "styled-components"
 const ApplyStyle = styled.div`
 width:710px;
 min-height:60vh;
+@media(max-width:550px){
+    width:100%;
+    padding-left:3%;
+    padding-right:3%;
+    box-sizing:border-box;
+}
 
 
 .errorMsg{
