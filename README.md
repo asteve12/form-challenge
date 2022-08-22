@@ -3,7 +3,7 @@
 <a href="https://shiny-brioche-7e8e16.netlify.app/">visit live version  here</a>
 <h2>
 <p>Technical Run down</p>
-1. it is responsive  both on desktop and mobile
+1. it is responsive  both on desktop and mobile<br/>
 2. enable form field validation
 </h2>
 <p>End Product:</p>
